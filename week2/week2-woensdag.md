@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[21/01/2025]`  
+**Datum:** `[22/01/2025]`  
 **Studentnaam:** `[Elyn Renoirte]`  
 **Groepsnaam:** `[MEELS]`
 
@@ -27,5 +27,6 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 - neutraal
+- 😊
 
 ---
