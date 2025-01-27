@@ -10,7 +10,8 @@
 
 - brainstorm over nieuwe feedback van de docenten (bv algemene chatbot maken en een filtersysteem -> brainstormen over hoe dat te designen)
 - ik heb het filtersysteem gedesigned in XD (desktop en mobile version)
-- scrumboard aanpasses
+- scrumboard aanpassen
+- presentaties volgen
 
 ---
 
