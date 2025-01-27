@@ -13,6 +13,7 @@
 - uiteindelijk moesten we veel van het design veranderen dus hebben ik en Mérédith aan het design gewerkt
 - we hebben pagina's gemaakt op XD voor een soort rondleiding waarbij je een rondleiding moet kiezen en dan kan krijg je de projecten van die rondleiding te zien. 
 - Ik en Mérédith hebben al deze pagina's voor de rondleiding op XD gemaakt (de algemene pagina's, creative tours, zelfpluk tour, duurzame tour...)
+- scrumboard aanpassen
 
 
 ---
