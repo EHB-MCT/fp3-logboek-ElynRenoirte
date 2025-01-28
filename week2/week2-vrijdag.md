@@ -17,7 +17,7 @@
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- /
+- niet iets nieuws maar ik heb tijdens het presenteren ook iets gezegd en voor een publiek spreken blijft wel iets challenging voor mij
 
 ## 3) Wat is mijn gevoel over vandaag?
 - oké
