@@ -21,5 +21,5 @@
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
-- een beetje geïrriteerd omdat de communicatie zeer moeilijk verloopt binnen de groep, alles gaat traag vooruit. Wanneer ik of Mérédith iets probeer te zeggen over wat er nog te doen is of over wie wat gaat zeggen bij de presentatie bijvoorbeeld antwoord er niemand en is er geen input van de rest. In de ochtend zei ik bv wat er allemaal nog te doen was en dan was er geen reactie van de rest. Het ligt waarschijnlijk aan dat we een zeer introverte groep zijn.
+- een beetje geïrriteerd omdat de communicatie zeer moeilijk verloopt binnen de groep, alles gaat traag vooruit. Wanneer ik of Mérédith iets probeer te zeggen over wat er nog te doen is of over wie wat gaat zeggen bij de presentatie bijvoorbeeld antwoord er niemand en is er geen input van de rest. In de ochtend zei ik bv wat er allemaal nog te doen was en dan was er geen reactie van de rest, of bv wanneer we de presentatie aan het bespreken waren was Elias de hele tijd op zijn gsm.
 - 🙄
