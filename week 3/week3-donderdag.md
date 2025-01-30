@@ -15,6 +15,7 @@
 - key images bewerkt in figma
 - gewerkt aan het extra promotie materiaal (een instagram post), dan hebben we de beste van de 2 eruit gehaald (ik en mérédith)
 - presentatie voorbereiden: bespreken wie wat gaat zeggen en ppt gemaakt met mérédith
+- de videos op de website proberen zetten maar vscode wou niet committen dus heb ik het zo gelaten
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 - in figma geleerd hoe je in een phone frame moet werken
